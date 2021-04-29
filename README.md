@@ -1,7 +1,7 @@
 ### About me 
 Hi there 👋! My name is Haopeng DENG, a year-2 student from the CSE department of CUHK.
 
-- :books: I’m interested in learning theoreotical computer science.
+- :books: I’m interested in learning GitHub.
 - :man_student: I’m working on the course project of CSCI3251.
 - :hearts: My favorite hobby is learning new stuff.
 - :badminton: My favorite sports activity is playing badminton.
